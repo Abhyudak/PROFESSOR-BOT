@@ -61,6 +61,9 @@
 
 -----New🗿🗿✨✨------
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/fQRSm1)
+
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/2sYzOY)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/YoSpkP)
